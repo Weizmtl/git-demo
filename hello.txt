@@ -15,4 +15,4 @@ hello vanier! hello git!!
 hello vanier! hello git!!
 hello vanier! hello git!!
 hello vanier! hello git!! master test
-hello vanier! hello git!!
+hello vanier! hello git!! hot-fix test
